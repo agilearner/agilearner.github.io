@@ -5,3 +5,5 @@
 <video width="658" height="444" preload="none" controls="controls"><source src="https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9jdWVkdXJzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL2lsaW5laWNyeV91c2Vub2RlX25ldC9FYnlCb3QxRnR6dEl0SzFUOXJSU2xhRUJQMW8xc1E3VkwxN0NNQk8zYzI2ZnhBP2U9eFEzZkYx.flv" /></video>
 
 <video width="658" height="444" preload="none" controls="controls"><source src="./怎么用手机传歌到mp4，用这个方法可以把手机里的歌传到MP4_好看视频.mp4" /></video>
+
+<video width="658" height="444" playsinline="" webkit-playsinline="" preload="auto" controls="" src="https://pro-video.xiaoheiban.cn/ihu/206e4370-7f56-48c0-beff-17847687561a.mp4" width="100%"></video>
